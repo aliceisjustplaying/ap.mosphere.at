@@ -5,9 +5,13 @@ Single-file PHP ActivityPub server bridged to Bluesky via [Bridgy Fed](https://f
 Forked from [https://gitlab.com/edent/activity-bot/](https://gitlab.com/edent/activity-bot/)
 
 Features added:
-- Being able to follow/unfollow other users (in testing)
+- Being able to follow/unfollow other users
 
-Original README as follows:
+
+
+---
+
+Original README:
 
 # ActivityBot - A Simple ActivityPub Bot Server in a Single PHP File
 
